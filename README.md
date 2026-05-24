@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m [Sanudin](https://github.com/sanudin-dev)
-- 👀 I’m a software engineer, developer, and lifelong learner based in Indonesia. I'm passionate about helping entrepreneurs create great products.
-- ⚡ I'm a front-end enthusiast
-- 🌱 Currently, I’m honing my skills in design and problem-solving
+- 👀 I’m a software engineer, frontend enthusiast, and lifelong learner - most at home building backend systems, but care deeply about how things look and feel on the surface.
+- I've spent the last several years at a Singapore-based fintech platform.
+- 🌱 Outside of work, I'm learning Python, exploring distributed systems, and writing about what I learn.
 
-- 📫 You can reach me on [x.com/__sanudin](https://x.com/__sanudin) or [My LinkedIn](https://www.linkedin.com/in/sanudin/)
+- 📫 You can reach me on [My LinkedIn](https://www.linkedin.com/in/sanudin/) or [Dev.to/sanudin-dev](https://dev.to/sanudin-dev)
 ## Tech Stack
 <p align="left">
 <a href="https://github.com/sanudin-dev">
